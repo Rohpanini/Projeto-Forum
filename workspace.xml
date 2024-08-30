@@ -4,57 +4,107 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5eb844fc-9095-409f-8140-2d4135fbea74" name="Changes" comment="" />
+    <list default="true" id="20b92e0d-17f8-4c65-8131-1d3228e36fee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2lNhcWwfdcX1A3C52ySszglVrDG" />
+  <component name="ProjectId" id="2kqboL3oSaNGIjXD06RN1nFYf74" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Downloaded.Files.Path.Enabled": "true",
-    "Kotlin.Unnamed.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
+    "Attach to process.pid 7840.executor": "ProcessAttachDebug",
+    "JUnit.ForumApplicationTests.executor": "Run",
+    "Kotlin.ForumApplicationKt.executor": "Run",
+    "Maven.forum [clean,package].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/roman/OneDrive/Documentos/projeto_forum",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Users/pedro/Documents/PROJETO-FRAME-WORK-FULL-STACK",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.kotlinCompiler"
+    "project.structure.side.proportion": "0.65747124",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Unnamed" type="JetRunConfigurationType" nameIsGenerated="true">
-      <module name="projeto_forum" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\Documents\Projeto-Forum\forum\src\main\kotlin\br\com\projeto\forum" />
+      <recent name="C:\Users\pedro\Documents\Projeto-Forum\forum\src" />
+      <recent name="C:\Users\pedro\Documents\Projeto-Forum\forum\src\main\resources\db\migration" />
+      <recent name="C:\Users\pedro\Documents\Projeto-Forum\forum\src\main\resources\db.migration" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="br.com.projeto.forum.dto" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.ForumApplicationKt">
+    <configuration name="ForumApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="forum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.projeto.forum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.projeto.forum" />
+      <option name="MAIN_CLASS_NAME" value="br.com.projeto.forum.ForumApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForumApplicationKt" type="JetRunConfigurationType" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.projeto.forum.ForumApplicationKt" />
+      <module name="forum" />
       <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ForumApplicationKt" />
+        <item itemvalue="JUnit.ForumApplicationTests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5eb844fc-9095-409f-8140-2d4135fbea74" name="Changes" comment="" />
-      <created>1725026520492</created>
+      <changelist id="20b92e0d-17f8-4c65-8131-1d3228e36fee" name="Changes" comment="" />
+      <created>1724014229798</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1725026520492</updated>
+      <updated>1724014229798</updated>
     </task>
     <servers />
   </component>
